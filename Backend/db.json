@@ -1,0 +1,85 @@
+{
+  "catagories": [
+    {
+      "title": "Laptops",
+      "subcatagories": [
+        "View All Laptops",
+        "XPS Laptops",
+        "Latitude Laptops",
+        "Inspiron Laptops",
+        "Vostro Laptops",
+        "Alienware Laptops",
+        "G Series Laptops",
+        "Precision Mobile Workstations",
+        "Latitude Rugged Laptops",
+        "Chromebook Laptops",
+        "4G/5G Laptops",
+        "Copilot+ PCs"
+      ]
+    },
+    {
+      "title": "Desktops & All-in-Ones",
+      "subcatagories": [
+        "View All Desktops & All-in-Ones",
+        "OptiPlex Desktops & All-in-Ones",
+        "Inspiron Desktops & All-in-Ones",
+        "Vostro Desktops",
+        "Alienware Desktops",
+        "Precision Fixed Workstations"
+      ]
+    },
+    {
+      "title": "Monitors",
+      "subcatagories": [
+        "View All Monitors",
+        "Gaming Monitors",
+        "Alienware Monitors",
+        "Ultrawide Monitors",
+        "4K Monitors",
+        "Curved Monitors",
+        "Monitors with Speakers",
+        "Video Conferencing Monitors",
+        "Monitor Accessories"
+      ]
+    },
+    {
+      "title": "Gaming",
+      "subcatagories": [
+        "Alienware",
+        "Dell Gaming",
+        "Gaming Laptops",
+        "Gaming Desktops",
+        "Alienware & Gaming Monitors",
+        "Gaming Accessories"
+      ]
+    },
+    {
+      "title": "PC Accessories",
+      "subcatagories": [
+        "View All PC Accessories",
+        "Docking Stations",
+        "Audio",
+        "Keyboards & Mice",
+        "Cables & Adapters",
+        "Laptop Bags & Cases",
+        "Networking Accessories",
+        "Hard Drives & Storage",
+        "Webcams"
+      ]
+    },
+    {
+      "title": "Parts, Batteries & Upgrades"
+    },
+    {
+      "title": "Thin Clients"
+    },
+    {
+      "title": "Workstations",
+      "subcatagories": [
+        "View All Workstations",
+        "Precision Mobile Workstations",
+        "Precision Fixed Workstations"
+      ]
+    }
+  ]
+}
