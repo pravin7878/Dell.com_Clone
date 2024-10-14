@@ -1,11 +1,18 @@
 import { CarouselPlugin } from '@/components/shadcn-component/Crousel'
 import React from 'react'
+import { CrouselOneCont } from './CrouselOneCont'
+import Catagory from './catagory'
+import { OffersPage } from './OffersPage'
+import { CrouselTwo } from './CrouselTwo'
 
 export const Home = () => {
   return (<>
-    <div className='w-[90%] m-auto border-2 '>
-      <CarouselPlugin />
-    </div>
+    <section className='w-full m-auto'>
+      <CrouselOneCont/>
+      <Catagory/>
+      <OffersPage/>
+      <CrouselTwo/>
+    </section>
   </>
 
   )

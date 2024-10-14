@@ -18,11 +18,11 @@ export function CarouselPlugin() {
     return (
         <Carousel
             plugins={[plugin.current]}
-            className="w-full"
+            className="w-[90%] m-auto"
             onMouseEnter={plugin.current.stop}
             onMouseLeave={plugin.current.reset}
         >
-            <CarouselContent>
+            <CarouselContent className="w-full">
                     <CrouselOneCont/>
             </CarouselContent>
             <CarouselPrevious />

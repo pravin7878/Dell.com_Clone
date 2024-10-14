@@ -13,7 +13,9 @@ const url =
 
 export const getCatagory = createAsyncThunk("GET_CATAGORY", async () => {
   const res = await axios.get(url);
+  console.log(res.data);
   return res.data;
+  
 });
 
 export const catagoriesSlice = createSlice({
