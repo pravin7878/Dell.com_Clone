@@ -1,7 +1,7 @@
 import { CarouselPlugin } from '@/components/shadcn-component/Crousel'
 import React from 'react'
 import { CrouselOneCont } from './CrouselOneCont'
-import Catagory from './catagory'
+import Catagory from './Catagory'
 import { OffersPage } from './OffersPage'
 import { CrouselTwo } from './CrouselTwo'
 
